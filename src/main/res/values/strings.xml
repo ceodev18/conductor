@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Conductor</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="s_color">
+        <item><b>"\t"</b></item>
+        <item><b>"Amarillo"</b></item>
+        <item><b>"Azul"</b></item>
+        <item><b>"Blanco"</b></item>
+        <item><b>"Negro"</b></item>
+        <item><b>"Plateado"</b></item>
+        <item><b>"Rojo"</b></item>
+    </string-array>
+    <string-array name="s_car">
+        <item><b>"\t"</b></item>
+        <item><b>"Chevrolet"</b></item>
+        <item><b>"Honda"</b></item>
+        <item><b>"Hyundai"</b></item>
+        <item><b>"Kia"</b></item>
+        <item><b>"Mazda"</b></item>
+        <item><b>"Mitsubishi"</b></item>
+        <item><b>"Nissan"</b></item>
+        <item><b>"Toyota"</b></item>
+        <item><b>"Volkswagen"</b></item>
+    </string-array>
+</resources>
